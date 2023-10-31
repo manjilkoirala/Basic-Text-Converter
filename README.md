@@ -30,9 +30,15 @@ That's it! You can now explore the project and see the static homepage in action
 
 ## Screenshots
 
-![image](https://github.com/manjilkoirala/Basic-Text-Converter/assets/85267300/0553039e-3f31-48d7-8675-98fbdd8b34e9)
-![image](https://github.com/manjilkoirala/Basic-Text-Converter/assets/85267300/412b861a-89ba-4a0c-a159-77f2dcab28cb)
-![image](https://github.com/manjilkoirala/Basic-Text-Converter/assets/85267300/946b3dd0-e5b0-4618-8e71-bbc4dde8365f)
+![image](https://github.com/manjilkoirala/Basic-Text-Converter/assets/85267300/e3fe5403-aee9-4c24-9a49-848357013533)
+![image](https://github.com/manjilkoirala/Basic-Text-Converter/assets/85267300/b899bd00-f1d6-4c6e-b0f6-34ee82e5c677)
+![image](https://github.com/manjilkoirala/Basic-Text-Converter/assets/85267300/4bf16da6-6e31-42c4-8127-902ba22de9cb)
+![image](https://github.com/manjilkoirala/Basic-Text-Converter/assets/85267300/bcd1eb80-c759-45d6-bcab-0d631820285d)
+![image](https://github.com/manjilkoirala/Basic-Text-Converter/assets/85267300/2db69bc3-e57f-42d4-8e4c-a5e059ce16cf)
+
+
+
+
 
 
 
