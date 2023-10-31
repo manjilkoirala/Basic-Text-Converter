@@ -4,6 +4,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
 }
 
 .container form{
@@ -53,4 +54,8 @@ border: none;
 .btnDiv button:hover{
     background-color: brown;
     color: white;
+}
+
+.content{
+    margin-top: 10px;
 }
